@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "body-parser": "1.9.0",
-    "typeorm": "0.2.24"
+    "typeorm": "0.3.21"
   }
 }
