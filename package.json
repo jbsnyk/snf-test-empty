@@ -6,7 +6,7 @@
     "start": "node index.js" 
   },
   "dependencies": {
-    "body-parser": "1.9.0",
+    "body-parser": "1.20.3",
     "typeorm": "0.2.24"
   }
 }
